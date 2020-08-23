@@ -1,0 +1,10 @@
+E:\Sources\C#\HideStartButton\HideStartButton\bin\Debug\HideStartButton.exe.config
+E:\Sources\C#\HideStartButton\HideStartButton\bin\Debug\HideStartButton.exe
+E:\Sources\C#\HideStartButton\HideStartButton\bin\Debug\HideStartButton.pdb
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.csprojAssemblyReference.cache
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.Main.resources
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.Properties.Resources.resources
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.csproj.GenerateResource.cache
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.csproj.CoreCompileInputs.cache
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.exe
+E:\Sources\C#\HideStartButton\HideStartButton\obj\Debug\HideStartButton.pdb
